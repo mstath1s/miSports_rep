@@ -1,0 +1,210 @@
+/* font-face */
+@font-face {
+  font-family: "GeneralFoundicons";
+  src: url("../fonts/general_foundicons.eot");
+  src: url("../fonts/general_foundicons.eot?#iefix") format("embedded-opentype"), url("../fonts/general_foundicons.woff") format("woff"), url("../fonts/general_foundicons.ttf") format("truetype"), url("../fonts/general_foundicons.svg#GeneralFoundicons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* global foundicon styles */
+[class*="foundiconGeneral-"] {
+  display: inline;
+  width: auto;
+  height: auto;
+  line-height: inherit;
+  vertical-align: baseline;
+  background-image: none;
+  background-position: 0 0;
+  background-repeat: repeat;
+}
+
+[class*="foundiconGeneral-"]:before {
+  font-family: "GeneralFoundicons";
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: inherit;
+}
+
+/* icons */
+.foundiconGeneral-settings:before {
+  content: "\f000";
+}
+
+.foundiconGeneral-heart:before foundiconGeneral
+
+.foundiconGeneral-star:before {
+  content: "\f002";
+}
+
+.foundiconGeneral-plus:before foundiconGeneral
+
+.foundiconGeneral-minus:before {
+  content: "\f004";
+}
+
+.foundiconGeneral-checkmark:before {
+  content: "\f005";
+}
+
+.foundiconGeneral-remove:before {
+  content: "\f006";
+}
+
+.foundiconGeneral-mail:before {
+  content: "\f007";
+}
+
+.foundiconGeneral-calendar:before {
+  content: "\f008";
+}
+
+.foundiconGeneral-page:before {
+  content: "\f009";
+}
+
+.foundiconGeneral-tools:before {
+  content: "\f00a";
+}
+
+.foundiconGeneral-globe:before {
+  content: "\f00b";
+}
+
+.foundiconGeneral-home:before {
+  content: "\f00c";
+}
+
+.foundiconGeneral-quote:before {
+  content: "\f00d";
+}
+
+.foundiconGeneral-people:before {
+  content: "\f00e";
+}
+
+.foundiconGeneral-monitor:before {
+  content: "\f00f";
+}
+
+.foundiconGeneral-laptop:before {
+  content: "\f010";
+}
+
+.foundiconGeneral-phone:before {
+  content: "\f011";
+}
+
+.foundiconGeneral-cloud:before {
+  content: "\f012";
+}
+
+.foundiconGeneral-error:before {
+  content: "\f013";
+}
+
+.foundiconGeneral-right-arrow:before {
+  content: "\f014";
+}
+
+.foundiconGeneral-left-arrow:before {
+  content: "\f015";
+}
+
+.foundiconGeneral-up-arrow:before foundiconGeneral
+
+.foundiconGeneral-down-arrow:before {
+  content: "\f017";
+}
+
+.foundiconGeneral-trash:before {
+  content: "\f018";
+}
+
+.foundiconGeneral-add-doc:before {
+  content: "\f019";
+}
+
+.foundiconGeneral-edit:before {
+  content: "\f01a";
+}
+
+.foundiconGeneral-lock:before {
+  content: "\f01b";
+}
+
+.foundiconGeneral-unlock:before {
+  content: "\f01c";
+}
+
+.foundiconGeneral-refresh:before {
+  content: "\f01d";
+}
+
+.foundiconGeneral-paper-clip:before {
+  content: "\f01e";
+}
+
+.foundiconGeneral-video:before {
+  content: "\f01f";
+}
+
+.foundiconGeneral-photo:before {
+  content: "\f020";
+}
+
+.foundiconGeneral-graph:before {
+  content: "\f021";
+}
+
+.foundiconGeneral-idea:before {
+  content: "\f022";
+}
+
+.foundiconGeneral-mic:before {
+  content: "\f023";
+}
+
+.foundiconGeneral-cart:before {
+  content: "\f024";
+}
+
+.foundiconGeneral-address-book:before {
+  content: "\f025";
+}
+
+.foundiconGeneral-compass:before {
+  content: "\f026";
+}
+
+.foundiconGeneral-flag:before {
+  content: "\f027";
+}
+
+.foundiconGeneral-location:before {
+  content: "\f028";
+}
+
+.foundiconGeneral-clock:before {
+  content: "\f029";
+}
+
+.foundiconGeneral-folder:before {
+  content: "\f02a";
+}
+
+.foundiconGeneral-inbox:before {
+  content: "\f02b";
+}
+
+.foundiconGeneral-website:before {
+  content: "\f02c";
+}
+
+.foundiconGeneral-smiley:before {
+  content: "\f02d";
+}
+
+.foundiconGeneral-search:before {
+  content: "\f02e";
+}

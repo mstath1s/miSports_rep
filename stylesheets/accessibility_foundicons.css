@@ -1,0 +1,132 @@
+/* font-face */
+@font-face {
+  font-family: "AccessibilityFoundicons";
+  src: url("../fonts/accessibility_foundicons.eot");
+  src: url("../fonts/accessibility_foundicons.eot?#iefix") format("embedded-opentype"), url("../fonts/accessibility_foundicons.woff") format("woff"), url("../fonts/accessibility_foundicons.ttf") format("truetype"), url("../fonts/accessibility_foundicons.svg#AccessibilityFoundicons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* global foundiconAcc styles */
+[class*="foundiconAcc-"] {
+  display: inline;
+  width: auto;
+  height: auto;
+  line-height: inherit;
+  vertical-align: baseline;
+  background-image: none;
+  background-position: 0 0;
+  background-repeat: repeat;
+}
+
+[class*="foundiconAcc-"]:before {
+  font-family: "AccessibilityFoundicons";
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: inherit;
+}
+
+/* icons */
+.foundiconAcc-wheelchair:before {
+  content: "\f000";
+}
+
+.foundiconAcc-speaker:before {
+  content: "\f001";
+}
+
+.foundiconAcc-fontsize:before {
+  content: "\f002";
+}
+
+.foundiconAcc-eject:before {
+  content: "\f003";
+}
+
+.foundiconAcc-view-mode:before {
+  content: "\f004";
+}
+
+.foundiconAcc-eyeball:before {
+  content: "\f005";
+}
+
+.foundiconAcc-asl:before {
+  content: "\f006";
+}
+
+.foundiconAcc-person:before {
+  content: "\f007";
+}
+
+.foundiconAcc-question:before {
+  content: "\f008";
+}
+
+.foundiconAcc-adult:before {
+  content: "\f009";
+}
+
+.foundiconAcc-child:before {
+  content: "\f00a";
+}
+
+.foundiconAcc-glasses:before {
+  content: "\f00b";
+}
+
+.foundiconAcc-cc:before {
+  content: "\f00c";
+}
+
+.foundiconAcc-blind:before {
+  content: "\f00d";
+}
+
+.foundiconAcc-braille:before {
+  content: "\f00e";
+}
+
+.foundiconAcc-iphone-home:before {
+  content: "\f00f";
+}
+
+.foundiconAcc-w3c:before {
+  content: "\f010";
+}
+
+.foundiconAcc-css:before {
+  content: "\f011";
+}
+
+.foundiconAcc-key:before {
+  content: "\f012";
+}
+
+.foundiconAcc-hearing-impaired:before {
+  content: "\f013";
+}
+
+.foundiconAcc-male:before {
+  content: "\f014";
+}
+
+.foundiconAcc-female:before {
+  content: "\f015";
+}
+
+.foundiconAcc-network:before {
+  content: "\f016";
+}
+
+.foundiconAcc-guidedog:before {
+  content: "\f017";
+}
+
+.foundiconAcc-universal-access:before {
+  content: "\f018";
+}
+
+.foundiconAcc-elevator:before {
+  content: "\f019";
+}
